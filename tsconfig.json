@@ -34,7 +34,7 @@
     "src/**/*.vue",
     "tests/**/*.ts",
     "tests/**/*.tsx"
-  ],
+, "src/webpack.config.js", "src/api/image/index.js", "src/utils/format.js"  ],
   "exclude": [
     "node_modules"
   ]
